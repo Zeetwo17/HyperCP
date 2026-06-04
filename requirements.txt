@@ -1,0 +1,8 @@
+# HyperCP runtime dependencies (CPU or CUDA).
+# The model is pure PyTorch -- no PyTorch Geometric / DGL required.
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+torch>=2.1
+lightgbm>=4.0
+matplotlib>=3.7

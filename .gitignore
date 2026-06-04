@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Results / logs (regenerate via the run commands)
+runs/
+results_fixed/
+results_fixed.zip
+*.log
+
+# Datasets (fetch per the README; do not commit)
+SupplyGraph-main/
+m5-forecasting/
+*.csv
+
+# Paper source (separate Overleaf submission)
+overleaf/
+overleaf_camera_ready.zip
+HyperCP_ICDM.pdf
+
+# Personal / scratch files
+Questions.txt
+paper_guide/
+artifacts/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
