@@ -1,6 +1,5 @@
 # HyperCP — Hyperedge-Aware Conformal Prediction for Supply-Chain Forecasting
 
-**Authors:** [Vishal Pandey](https://github.com/Zeetwo17) · [Sahil Kumar](https://github.com/sahil1418)
 [![Paper](https://img.shields.io/badge/ICDM%202026-Accepted-blue)](https://icdm2026.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
